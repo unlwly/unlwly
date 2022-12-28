@@ -1,5 +1,4 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5a3095472aeba58c0fb5ce6c/1588958493515-68FFHAQ3JR5YRH8P7Z57/MarqueeArrow.gif?format=500w" width="200px" align="left">
-<img src="https://user-images.githubusercontent.com/76652465/209798820-25d5e5f1-7c78-45f5-a17a-8335827272b5.gif" width="200px" align="left">
 
 <div align="right">
   
