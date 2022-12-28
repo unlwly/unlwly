@@ -1,4 +1,6 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5a3095472aeba58c0fb5ce6c/1588958493515-68FFHAQ3JR5YRH8P7Z57/MarqueeArrow.gif?format=500w" width="200px" align="left">
+<img src="https://user-images.githubusercontent.com/76652465/209798820-25d5e5f1-7c78-45f5-a17a-8335827272b5.gif" width="200px" align="left">
+
 <div align="right">
   
 ![ani_line_star2_rainbow](https://user-images.githubusercontent.com/76652465/209798604-7d985fa5-67bb-4107-82d4-a57b276f5f6a.gif)
@@ -11,7 +13,6 @@
 ![bloomingrose](https://user-images.githubusercontent.com/76652465/209798747-74eb4db8-a8a0-4824-90e9-06c4e9b03055.gif)
 ![a-mailbox](https://user-images.githubusercontent.com/76652465/209798796-15ab7ea8-e5bc-4c3e-91bf-bc95221d0c52.gif)
 ![rfhumrose](https://user-images.githubusercontent.com/76652465/209798813-a5382a1b-8897-4917-9d7a-bcf201ad1163.gif)
-![dolph_jump](https://user-images.githubusercontent.com/76652465/209798820-25d5e5f1-7c78-45f5-a17a-8335827272b5.gif)
 ![line_blue1](https://user-images.githubusercontent.com/76652465/209798902-8dbe31cf-39f4-4b13-8cfe-cf6f757ab480.gif)
 
 </div>
