@@ -7,6 +7,4 @@
 [![a-mailbox](https://user-images.githubusercontent.com/76652465/209798796-15ab7ea8-e5bc-4c3e-91bf-bc95221d0c52.gif)](https://www.youtube.com/watch?v=usEzH9YT4DE)
 [![rfhumrose](https://user-images.githubusercontent.com/76652465/209798813-a5382a1b-8897-4917-9d7a-bcf201ad1163.gif)](https://www.youtube.com/watch?v=usEzH9YT4DE)
 
-** **
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J8CR33I)
