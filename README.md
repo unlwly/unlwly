@@ -1,1 +1,1 @@
-### $$\textbf{hi there}$$
+### $$\color{pink}\textbf{hi there}$$
